@@ -6,3 +6,7 @@
 .top {
     background-color: #1F2937;
 }
+
+.navigation {
+    display: flex;
+}
