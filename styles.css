@@ -1,6 +1,7 @@
 .top {
     background-color: #1F2937;
     color: aliceblue;
+    display: flex;
 }
 
 .h3 {
