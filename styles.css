@@ -62,7 +62,8 @@ h3 {
 .quote {
     background-color: #E5E7EB;
     font-size: 36px;
-    font-style: light italic;
+    font-weight: lighter;
+    font-style: italic;
     color: #1F2937;
     display: flex;
     align-items: center;
