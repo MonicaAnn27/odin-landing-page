@@ -43,3 +43,7 @@ button {
 .middle {
     text-align: center;
 }
+
+ul {
+    display: flex;
+}
