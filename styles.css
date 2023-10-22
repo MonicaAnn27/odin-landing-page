@@ -18,6 +18,10 @@ h1 {
     color: white;
 }
 
+.hero {
+    display: flex;
+    justify-content: space-around;
+}
 button {
     background-color: #3882f6;
     border-radius: 10%;
