@@ -40,6 +40,12 @@ button {
     gap: 2em;
 }
 
+h3 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: extra-bold;
+}
+
 .middle {
     text-align: center;
 }
