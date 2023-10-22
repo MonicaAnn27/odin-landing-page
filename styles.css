@@ -47,11 +47,17 @@ h3 {
 }
 
 .middle {
-    align: center;
+    text-align: center;
 }
 
 .whales {
     display: flex;
     align-items: center;
+    justify-content: center;
     padding: 20px;
+}
+ 
+.card {
+    display: flex;
+    padding 15px;
 }
