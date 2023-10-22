@@ -21,6 +21,7 @@ h1 {
 .hero {
     display: flex;
     justify-content: space-around;
+    flex-direction: row;
 }
 button {
     background-color: #3882f6;
