@@ -1,6 +1,8 @@
 .top {
     background-color: #1F2937;
     color: aliceblue;
+    display: flex;
+    justify-content: space-around;
 }
 .header {
     display: flex;
