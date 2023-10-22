@@ -47,12 +47,12 @@ h3 {
 }
 
 .middle {
-    text-align: center;
+    align: center;
 }
 
 ul {
     display: flex;
     align-items: center;
-    text-decoration: none;
+    list-style: none;
 }
 
