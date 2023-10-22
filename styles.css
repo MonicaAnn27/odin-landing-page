@@ -52,13 +52,6 @@ h3 {
 
 .whales {
     display: flex;
-    flex-direction: row;
     align-items: center;
+    padding: 20px;
 }
-
-ul {
-    display: flex;
-    align-items: center;
-    list-style: none;
-}
-
