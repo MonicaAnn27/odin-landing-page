@@ -58,3 +58,10 @@ h3 {
     display: flex;
     padding: 15px;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: light italic;
+    color: #1F2937;
+}
