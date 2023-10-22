@@ -50,6 +50,12 @@ h3 {
     align: center;
 }
 
+.whales {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
 ul {
     display: flex;
     align-items: center;
