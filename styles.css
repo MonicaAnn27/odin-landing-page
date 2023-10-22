@@ -21,7 +21,6 @@ h1 {
 }
 
 .hero {
-    display: flex;
     justify-content: space-around;
 }
 
