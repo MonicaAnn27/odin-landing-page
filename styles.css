@@ -3,7 +3,7 @@
     color: aliceblue;
     display: flex;
     justify-content: space-around;
-    padding: 15px;
+    padding: 30px;
 }
 
 .header {
@@ -38,4 +38,8 @@ button {
     display: flex;
     justify-content: flex-end;
     gap: 2em;
+}
+
+.middle {
+    text-align: center;
 }
