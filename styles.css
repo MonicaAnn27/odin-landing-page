@@ -3,6 +3,7 @@
     color: aliceblue;
     display: flex;
     justify-content: space-around;
+    padding: 15px;
 }
 
 .header {
@@ -22,6 +23,7 @@ h1 {
 
 .hero {
     display: flex;
+    flex-direction: column;
     justify-content: space-around;
 }
 
