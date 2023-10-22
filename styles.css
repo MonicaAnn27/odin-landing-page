@@ -64,4 +64,7 @@ h3 {
     font-size: 36px;
     font-style: light italic;
     color: #1F2937;
+    display: flex;
+    align-items: center;
+    padding: 100px;
 }
