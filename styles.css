@@ -1,5 +1,5 @@
 body {
-    font-family: 'open-sans' sans-serif;
+    font-family: 'open-sans', sans-serif;
 }
 
 .top {
@@ -37,6 +37,9 @@ button {
     background-color: #3882f6;
     border-radius: 10%;
     color: white;
+    max-width: 100px;
+    padding: 10px;
+    margin 5px;
 
 }
 
@@ -77,4 +80,15 @@ h3 {
     display: flex;
     align-items: center;
     padding: 100px;
+}
+
+.foot {
+    background-color: #3882f6;
+    margin: 20px 70px;
+    padding: 40px;
+    border-radius: 10px;
+    display: flex;
+    color: #E5E7EB;
+    justify-content: space-between;
+    align-items: center;
 }
